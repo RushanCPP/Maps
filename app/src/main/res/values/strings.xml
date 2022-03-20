@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="family">Фамилия</string>
+    <string name="mark">Оценка</string>
+    <string name="save">СОХРАНИТЬ</string>
+    <string name="remove">Удалить</string>
+    <string name="find">Найти</string>
+</resources>
